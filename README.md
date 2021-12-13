@@ -1,2 +1,2 @@
-# Writeup-VibloCTF
+# WriteUpVibloCTF
  
